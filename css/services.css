@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+#heading1{
+    color: red;
+}
+#heading2{
+    color: aqua;
+}
+
+.paragraph{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#vip{
+    background-color: bisque;
+    display: flex;
+    margin: 80px;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+#vip img{
+    margin-right: 40px;
+    border-radius: 200px;
+}
+
+#vip:hover{
+    background-color: aqua;
+    color: white;
+}
+
+#shipping{
+    display: flex;
+    margin: 40px;
+}
+#shipping img{
+    border-radius: 200px;
+}
+
+#mydiv{
+    margin-left: 40px;
+}
+
+#assignment{
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
+
+#assignment img{
+    width: 100%;
+    height: 150px;
+}
+
